@@ -1,5 +1,10 @@
+**Data Science**
 ---
-layout: default
+**AIML Projects**
+
+**Fraud Detection**
+Fraud Detection is a set of processes and analysis that allows bussinesses to identify and prevent unautorized financial activity.
+
 ---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
